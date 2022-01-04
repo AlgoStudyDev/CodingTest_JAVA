@@ -32,7 +32,7 @@ class Songs {
     }
 }
 
-public class BestAlbum {
+class BestAlbum {
 
     public static int[] solution(String[] genres, int[] plays) {
 
