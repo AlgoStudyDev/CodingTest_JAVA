@@ -52,10 +52,10 @@
 
 |  **<c8>해시 (1월 4일 오후 2시)</c8>**   |                           문제 명                            | 동성 | 재욱 |      |      |
 | :-------------------------------------: | :----------------------------------------------------------: | :--: | :--: | ---- | ---- |
-|                    1                    | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) |      |      |      |      |
-|                    2                    | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |      |      |      |      |
-|                    3                    | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) |      |      |      |      |
-|                    4                    | [베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) |      |      |      |      |
+|                    1                    | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | 🟢 |      |      |      |
+|                    2                    | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |🟢|      |      |      |
+|                    3                    | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) |🟢|      |      |      |
+|                    4                    | [베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) |🔴|      |      |      |
 | **<c8>스택/큐 (1월 4일 오후 2시)</c8>** |                         **문제 명**                          | 동성 | 재욱 |      |      |
 |                    1                    | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) |      |      |      |      |
 |                    2                    | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) |      |      |      |      |
