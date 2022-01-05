@@ -50,50 +50,50 @@
 >
 > ex) [🟢]`(폴더명/이름-자바명.java)<br><사용 자료구조 or 용어>`
 
-|  **<c8>해시 (1월 4일 오후 2시)</c8>**   |                           문제 명                            | 동성 | 재욱 |      |      |
-| :-------------------------------------: | :----------------------------------------------------------: | :--: | :--: | ---- | ---- |
-|                    1                    | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | 🟢 |      |      |      |
-|                    2                    | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |🟢|      |      |      |
-|                    3                    | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) |🟢|      |      |      |
-|                    4                    | [베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) |🔴|      |      |      |
-| **<c8>스택/큐 (1월 4일 오후 2시)</c8>** |                         **문제 명**                          | 동성 | 재욱 |      |      |
-|                    1                    | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) |      |      |      |      |
-|                    2                    | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) |      |      |      |      |
-|                    3                    | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) |      |      |      |      |
-|                    4                    | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) |      |      |      |      |
-|            **<c8>힙 </c8>**             |                         **문제 명**                          | 동성 | 재욱 |      |      |
-|                    1                    | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) |      |      |      |      |
-|                    2                    | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) |      |      |      |      |
-|                    3                    | [이중순위우선큐 ](https://programmers.co.kr/learn/courses/30/lessons/42628) |      |      |      |      |
-|           **<c8>정렬 </c8>**            |                         **문제 명**                          | 동성 | 재욱 |      |      |
-|                    1                    | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) |      |      |      |      |
-|                    2                    | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) |      |      |      |      |
-|                    3                    | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) |      |      |      |      |
-|         **<c8>완전탐색 </c8>**          |                         **문제 명**                          | 동성 | 재욱 |      |      |
-|                    1                    | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |      |      |      |      |
-|                    2                    | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |      |      |      |      |
-|                    3                    | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |      |      |      |      |
-|          **<c8>그리디 </c8>**           |                         **문제 명**                          | 동성 | 재욱 |      |      |
-|                    1                    | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) |      |      |      |      |
-|                    2                    | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) |      |      |      |      |
-|                    3                    | [큰수만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) |      |      |      |      |
-|                    4                    | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) |      |      |      |      |
-|                    5                    | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) |      |      |      |      |
-|                    6                    | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) |      |      |      |      |
-|         **<c8>동적계획법</c8>**         |                         **문제 명**                          | 동성 | 재욱 |      |      |
-|                    1                    | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) |      |      |      |      |
-|                    2                    | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) |      |      |      |      |
-|                    3                    | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) |      |      |      |      |
-|                    4                    | [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897) |      |      |      |      |
-|          **<c8>DFS/BFS</c8>**           |                         **문제 명**                          | 동성 | 재욱 |      |      |
-|                    1                    | [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) |      |      |      |      |
-|                    2                    | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) |      |      |      |      |
-|                    3                    | [단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163) |      |      |      |      |
-|                    4                    | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) |      |      |      |      |
-|          **<c8>이분탐색</c8>**          |                         **문제 명**                          | 동성 | 재욱 |      |      |
-|                    1                    | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) |      |      |      |      |
-|                    2                    | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) |      |      |      |      |
-|           **<c8>그래프</c8>**           |                         **문제 명**                          | 동성 | 재욱 |      |      |
-|                    1                    | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) |      |      |      |      |
-|                    2                    | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) |      |      |      |      |
-|                    3                    | [방의 개수](https://programmers.co.kr/learn/courses/30/lessons/49190) |      |      |      |      |
+|  **<c8>해시 (1월 4일 오후 2시)</c8>**   |                           문제 명                            | 동성 | 재욱 |
+| :-------------------------------------: | :----------------------------------------------------------: | :--: | :--: |
+|                    1                    | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | 🟢 | 🟢 |
+|                    2                    | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |🟢| 🟢 |
+|                    3                    | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) |🟢| 🟢 |
+|                    4                    | [베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) |🔴| 🔴 |
+| **<c8>스택/큐 (1월 4일 오후 2시)</c8>** |                         **문제 명**                          | 동성 | 재욱 |
+|                    1                    | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) |      | 🟢 |
+|                    2                    | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) |      | 🔴 |
+|                    3                    | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) |      | 🔴 |
+|                    4                    | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) |      | 🟢 |
+|            **<c8>힙 </c8>**             |                         **문제 명**                          | 동성 | 재욱 |
+|                    1                    | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) |      |      |
+|                    2                    | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) |      |      |
+|                    3                    | [이중순위우선큐 ](https://programmers.co.kr/learn/courses/30/lessons/42628) |      |      |
+|           **<c8>정렬 </c8>**            |                         **문제 명**                          | 동성 | 재욱 |
+|                    1                    | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) |      |      |
+|                    2                    | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) |      |      |
+|                    3                    | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) |      |      |
+|         **<c8>완전탐색 </c8>**          |                         **문제 명**                          | 동성 | 재욱 |
+|                    1                    | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |      |      |
+|                    2                    | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |      |      |
+|                    3                    | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |      |      |
+|          **<c8>그리디 </c8>**           |                         **문제 명**                          | 동성 | 재욱 |
+|                    1                    | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) |      |      |
+|                    2                    | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) |      |      |
+|                    3                    | [큰수만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) |      |      |
+|                    4                    | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) |      |      |
+|                    5                    | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) |      |      |
+|                    6                    | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) |      |      |
+|         **<c8>동적계획법</c8>**         |                         **문제 명**                          | 동성 | 재욱 |
+|                    1                    | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) |      |      |
+|                    2                    | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) |      |      |
+|                    3                    | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) |      |      |
+|                    4                    | [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897) |      |      |
+|          **<c8>DFS/BFS</c8>**           |                         **문제 명**                          | 동성 | 재욱 |
+|                    1                    | [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) |      |      |
+|                    2                    | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) |      |      |
+|                    3                    | [단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163) |      |      |
+|                    4                    | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) |      |      |
+|          **<c8>이분탐색</c8>**          |                         **문제 명**                          | 동성 | 재욱 |
+|                    1                    | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) |      |      |
+|                    2                    | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) |      |      |
+|           **<c8>그래프</c8>**           |                         **문제 명**                          | 동성 | 재욱 |
+|                    1                    | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) |      |      |
+|                    2                    | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) |      |      |
+|                    3                    | [방의 개수](https://programmers.co.kr/learn/courses/30/lessons/49190) |      |      |
