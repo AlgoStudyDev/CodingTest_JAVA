@@ -57,14 +57,14 @@
 |                    3                    | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) |🟢| 🟢 |
 |                    4                    | [베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) |🔴| 🔴 |
 | **<c8>스택/큐 (1월 4일 오후 2시)</c8>** |                         **문제 명**                          | 동성 | 재욱 |
-|                    1                    | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) |      | 🟢 |
-|                    2                    | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) |      | 🔴 |
-|                    3                    | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) |      | 🔴 |
-|                    4                    | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) |      | 🟢 |
+|                    1                    | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | 🟢| 🟢 |
+|                    2                    | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) |🟢| 🔴 |
+|                    3                    | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) |🔴| 🔴 |
+|                    4                    | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) |🟢| 🟢 |
 |            **<c8>힙 </c8>**             |                         **문제 명**                          | 동성 | 재욱 |
-|                    1                    | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) |      |      |
-|                    2                    | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) |      |      |
-|                    3                    | [이중순위우선큐 ](https://programmers.co.kr/learn/courses/30/lessons/42628) |      |      |
+|                    1                    | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) |🟢|      |
+|                    2                    | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) |🔴|      |
+|                    3                    | [이중순위우선큐 ](https://programmers.co.kr/learn/courses/30/lessons/42628) |🟢|      |
 |           **<c8>정렬 </c8>**            |                         **문제 명**                          | 동성 | 재욱 |
 |                    1                    | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) |      |      |
 |                    2                    | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) |      |      |
