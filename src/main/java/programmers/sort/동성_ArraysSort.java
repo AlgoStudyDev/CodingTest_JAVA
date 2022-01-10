@@ -1,6 +1,6 @@
 package programmers.sort;
 import java.util.*;
-public class 동성_sort {
+public class 동성_ArraysSort {
 
     public static void main(String[] args) {
 
