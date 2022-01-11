@@ -66,13 +66,13 @@
 |                    2                    | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) |🔴|      |
 |                    3                    | [이중순위우선큐 ](https://programmers.co.kr/learn/courses/30/lessons/42628) |🟢|      |
 |           **<c8>정렬 </c8>**            |                         **문제 명**                          | 동성 | 재욱 |
-|                    1                    | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) |      |      |
-|                    2                    | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) |      |      |
-|                    3                    | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) |      |      |
+|                    1                    | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) |  🟢  |      |
+|                    2                    | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | 🟢  |      |
+|                    3                    | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | 🟢 |      |
 |         **<c8>완전탐색 </c8>**          |                         **문제 명**                          | 동성 | 재욱 |
-|                    1                    | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |      |      |
-|                    2                    | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |      |      |
-|                    3                    | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |      |      |
+|                    1                    | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | 🟢 |      |
+|                    2                    | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |🟢|      |
+|                    3                    | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |🟢|      |
 |          **<c8>그리디 </c8>**           |                         **문제 명**                          | 동성 | 재욱 |
 |                    1                    | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) |      |      |
 |                    2                    | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) |      |      |
